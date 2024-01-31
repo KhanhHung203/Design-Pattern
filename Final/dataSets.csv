@@ -1,0 +1,11 @@
+TID,Items
+1,[C, A, E, B]
+2,[D, A, C, B, E]
+3,[A, C, D, B, E]
+4,[B, C, D, E]
+5,[C, D]
+6,[C, B, E, A, D]
+7,[E, B, D, C, A]
+8,[A, E, D, B]
+9,[E, D, C, B]
+10,[C, A, B, D]
